@@ -474,3 +474,4 @@ addExperience();
 addProject();
 initializeSkillsSystem();
 updatePreview();
+
